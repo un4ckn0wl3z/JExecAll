@@ -1,5 +1,5 @@
 # JExecAll
-bypass security rule for not allow to exec .exe file by security operator.
+bypass security rule for not allow to exec .exe file by security operator (such as portable binary/installer file) .
 # requirement
 - Java Runtime Environment ( Must be already install in your system )
 # How to use
